@@ -14,7 +14,6 @@
 </div>
 <br/>
 
-> 📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
 
 <br/>
 
