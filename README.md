@@ -2,32 +2,33 @@
 
 # Hi, I'm Muhammad Usman 👋
 
-**Web Engineer · EdTech · GIS Engineer .**
+**Web Engineer ·  EdTech  · Community Builder**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+student+deserves+to+start+tech+early;Not+in+2nd+year.+Not+never.;Building+TaleemKaSafar+to+close+that+gap." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+child+deserves+a+chance+to+build+their+future;Trying+to+help+many+of+them+get+that+chance;Building+TaleemKaSafar+to+make+it+real." alt="Typing SVG" />
 <p>
   <a href="https://muhmdusman.site"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:hi@muhmdusman.site"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.site-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/muhmdusman"><img src="https://img.shields.io/badge/GitHub-muhmdusman-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 </div>
+<br/>
+
+> 📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
 
 <br/>
 
 ## 🧭 About Me
 
-I'm a **Web Engineer with 2 years of experience**, with a GIS/Remote Sensing background on the side.
+I'm a **Web Engineer with 2 years of experience**, with a GIS background on the side.
 
-The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an active member of the **AWS Student Builder Group community**, running sessions and helping students who don't know where to begin.
+The thing I care about most is: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an Web Engineer.Along this I am an active member of the **AWS Student Builder Group community**, running sessions and helping students who don't know where to begin.Teaching the funda build things that holds somevalue to learn cool stuff.
 
 <br/>
 
 ## 🚀 Building TaleemKaSafar
 
-**TaleemKaSafar** is an **AI-based learning platform** built around the exact same mission — giving students, especially those with no early exposure to tech and no formal schooling behind them, a real place to start learning.
+**TaleemKaSafar** is an **AI-based learning platform** built around the exact same mission — giving students, especially those with access to less resources for academia and no early exposure to tech and no formal schooling behind them, a real place to start learning.
 
 <br/>
 
