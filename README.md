@@ -2,9 +2,8 @@
 
 # Hi, I'm Muhammad Usman 👋
 
-**Web Engineer ·  EdTech  · Community Builder**
+**Web Engineer ·  GIS Engineer  · Community Builder**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+child+deserves+a+chance+to+build+their+future;Trying+to+help+many+of+them+get+that+chance;Building+TaleemKaSafar+to+make+it+real." alt="Typing SVG" />
 <p>
   <a href="https://muhmdusman.site"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:hi@muhmdusman.site"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.site-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
