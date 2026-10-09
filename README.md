@@ -5,8 +5,8 @@
 **Web Engineer ·  GIS Engineer  · Community Builder**
 
 <p>
-  <a href="https://muhmdusman.site"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:hi@muhmdusman.site"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.site-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://muhmdusman.space"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.space-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:hi@muhmdusman.space"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.space-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/muhmdusman"><img src="https://img.shields.io/badge/GitHub-muhmdusman-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
