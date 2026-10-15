@@ -26,6 +26,5 @@
 
 ```yaml
 current_venture: "Building Taleem Ka Safar"
-community:       "AWS Community Builder ☁️"
-focus:           ["0-to-1 Product Development", "Full-Stack Web Engineer"]
-philosophy:      "Ship fast, distribute, scale it, empower the community."
+focus:           [" Product Development", "Scaleable Robust Systems", "Open Source"]
+philosophy:      "Be what you want to be"
