@@ -1,98 +1,24 @@
 <div align="center">
 
-# Hi, I'm Muhammad Usman 👋
+# Muhammad Usman
+### Full-Stack Web Engineer · Product Builder · Community Leader
 
-**Web Engineer ·  GIS Engineer  · Community Builder**
+*Architecting fast web products, spatial systems, and thriving tech communities.*
 
 <p>
-  <a href="https://muhmdusman.space"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.space-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:hi@muhmdusman.space"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.space-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/muhmdusman"><img src="https://img.shields.io/badge/GitHub-muhmdusman-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://muhmdusman.space"><img src="https://img.shields.io/badge/muhmdusman.space-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:hi@muhmdusman.space"><img src="https://img.shields.io/badge/hi%40muhmdusman.space-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=muhmdusman&style=for-the-badge&color=181717" alt="Profile Views"/>
 </p>
-</div>
-<br/>
-
-
-<br/>
-
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-**Cloud & Infrastructure**
-
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-
-**Databases & Backend Services**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-
-**AI / ML Tooling**
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-**GIS & Mapping**
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
-<img src="https://img.shields.io/badge/GeoServer-005A9C?style=for-the-badge&logo=geoserver&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+### ⚡ What I Do
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=muhmdusman&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📩 Let's Connect
-
-<img src="https://komarev.com/ghpvc/?username=muhmdusman&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
-
-</div>
+```yaml
+current_venture: "Building Taleem Ka Safar"
+focus:           ["0-to-1 Product Development", "Full-Stack Web", "Geospatial Engineering"]
+philosophy:      "Ship fast, build for scale, empower the community."
