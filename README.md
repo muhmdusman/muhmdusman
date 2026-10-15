@@ -1,15 +1,21 @@
 <div align="center">
 
 # Muhammad Usman
-### Full-Stack Web Engineer · Product Builder · Community Leader
+### Full-Stack Web Engineer · Community Builder
 
-*Architecting fast web products, spatial systems, and thriving tech communities.*
+*Building products that matter, systems that scale, and solutions that empower students and communities.*
 
 <p>
   <a href="https://muhmdusman.space"><img src="https://img.shields.io/badge/muhmdusman.space-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="https://img.shields.io/badge/AWS_Community_Builder-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /></a>
   <a href="mailto:hi@muhmdusman.space"><img src="https://img.shields.io/badge/hi%40muhmdusman.space-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=muhmdusman&style=for-the-badge&color=181717" alt="Profile Views"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,python,postgres,aws,cloudflare&theme=dark" alt="Core Tech Stack" />
 </p>
 
 </div>
@@ -20,5 +26,6 @@
 
 ```yaml
 current_venture: "Building Taleem Ka Safar"
-focus:           ["0-to-1 Product Development", "Full-Stack Web", "Geospatial Engineering"]
-philosophy:      "Ship fast, build for scale, empower the community."
+community:       "AWS Community Builder ☁️"
+focus:           ["0-to-1 Product Development", "Full-Stack Web Engineer"]
+philosophy:      "Ship fast, distribute, scale it, empower the community."
