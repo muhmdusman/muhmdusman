@@ -26,5 +26,5 @@
 
 ```yaml
 current_venture: "Building Taleem Ka Safar"
-focus:           [" Product Development", "Scaleable Robust Systems", "Open Source"]
+focus:           [" Product Development", "Scalable Robust Systems", "Open Source"]
 philosophy:      "Be what you want to be"
