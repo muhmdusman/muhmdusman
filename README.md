@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,python,postgres,aws,cloudflare&theme=dark" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,python,postgres,aws,cloudflare&theme=dark" alt="Core Tech Stack" />
 </p>
 
 </div>
