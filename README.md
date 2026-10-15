@@ -3,7 +3,7 @@
 # Muhammad Usman
 ### Full-Stack Web Engineer · Community Builder
 
-*Building products that matter, systems that scale, and solutions that empower students and communities.*
+*Building products that matter, systems that scale, and solutions that empower students and society.*
 
 <p>
   <a href="https://muhmdusman.space"><img src="https://img.shields.io/badge/muhmdusman.space-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
